@@ -1,0 +1,11 @@
+{
+  "parent": "block/glowstone", 
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 1111
+      },
+      "model": "minequar:coal_dust"
+    }
+  ]
+}
